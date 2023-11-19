@@ -1,3 +1,3 @@
 struct CustomView {
-    var text = "Hello, World!"
+    var text = "Test Custom View"
 }
